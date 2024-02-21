@@ -2,10 +2,10 @@ package gui;
 
 import javax.swing.*;
 
-public class PoleButton extends JButton {
-    private int value;
+public class CellButton extends JButton {
+    private final int value;
 
-    public PoleButton(int value) {
+    public CellButton(int value) {
         super();
         this.value = value;
     }

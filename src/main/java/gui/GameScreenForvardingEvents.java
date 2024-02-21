@@ -6,7 +6,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.ArrayList;
 
 
 public class GameScreenForvardingEvents extends JFrame {
@@ -25,7 +24,7 @@ public class GameScreenForvardingEvents extends JFrame {
         Forwarder forwarder = new Forwarder();
 
         for (int i = 0; i < controller.getFieldSize() * controller.getFieldSize(); i++) {
-            PoleButton button = new PoleButton(i);
+            CellButton button = new CellButton(i);
             button.addActionListener(forwarder);
 
             getContentPane().add(button);
@@ -40,11 +39,9 @@ public class GameScreenForvardingEvents extends JFrame {
 
         @Override
         public void actionPerformed(ActionEvent e) {
-            try {
+
                 controller.buttonPressed(Integer.parseInt(e.toString().substring(e.toString().indexOf("value=") + 6)));
-            } catch (NumberFormatException ex) {
-                ex.printStackTrace();
-            }
+
 
         }
     }
