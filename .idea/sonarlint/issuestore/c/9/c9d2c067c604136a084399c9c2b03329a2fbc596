@@ -1,0 +1,30 @@
+
+h
+java:S1192`"FDefine a constant instead of duplicating this literal "value" 3 times.(æı»Ñúÿÿÿÿ8öç³æÜ1
+s	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¶±ıÿÿÿÿ8öç³æÜ1
+K
+java:S1604±"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8öç³æÜ1
+=
+java:S2129^" Remove this "Double" constructor(–Ùéï8Œè³æÜ1
+e
+java:S5738^"HRemove this call to a deprecated method, it has been marked for removal.(–Ùéï8Œè³æÜ1
+<
+java:S2129c" Remove this "Double" constructor( œÜ}8è³æÜ1
+d
+java:S5738c"HRemove this call to a deprecated method, it has been marked for removal.( œÜ}8è³æÜ1
+>
+java:S2129h"!Remove this "Integer" constructor(Õ‘Ğ”8è³æÜ1
+e
+java:S5738h"HRemove this call to a deprecated method, it has been marked for removal.(Õ‘Ğ”8è³æÜ1
+B
+java:S2129m" Remove this "Double" constructor(µàÏøúÿÿÿÿ8è³æÜ1
+j
+java:S5738m"HRemove this call to a deprecated method, it has been marked for removal.(µàÏøúÿÿÿÿ8è³æÜ1
+C
+java:S2129™" Remove this "Double" constructor(µàÏøúÿÿÿÿ8“è³æÜ1
+k
+java:S5738™"HRemove this call to a deprecated method, it has been marked for removal.(µàÏøúÿÿÿÿ8“è³æÜ1
+g
+java:S3252¤"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8”è³æÜ1
+h
+java:S1659½"EDeclare "partial1" and all following declarations on a separate line.(œ¶±ıÿÿÿÿ8–è³æÜ1

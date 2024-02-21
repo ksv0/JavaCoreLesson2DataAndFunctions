@@ -1,0 +1,29 @@
+
+K
+java:S1604Õ"(Make this anonymous inner class a lambda(Ô¶µÿşÿÿÿÿ8ÅœÄáÜ1
+M
+java:S1172¥"*Remove this unused method parameter "dot".(ªĞ¾ñÿÿÿÿÿ8ÿœÄáÜ1
+^	java:S125“"<This block of commented-out lines of code should be removed.(ìˆš°ùÿÿÿÿ8€ÄáÜ1
+U
+java:S1135"2Complete the task associated to this TODO comment.(¢¶½æûÿÿÿÿ8€ÄáÜ1
+K	java:S108§")Either remove or fill this block of code.(Ê°¡ıÿÿÿÿ8ÄáÜ1
+V
+java:S3400°"9Remove this method and declare a constant for this value.(¸®Ã'8ÄáÜ1
+[
+java:S1172®"=Remove these unused method parameters "x", "y", "dot", "win".(õí‚İ8ÄáÜ1
+Y	java:S125¯"<This block of commented-out lines of code should be removed.(ŸåØ8‚ÄáÜ1
+V
+java:S3400´"9Remove this method and declare a constant for this value.(¸®Ã'8‚ÄáÜ1
+[
+java:S1172³"=Remove these unused method parameters "x", "y", "dot", "win".(üÙÌå8‚ÄáÜ1
+V
+java:S3400¸"9Remove this method and declare a constant for this value.(¸®Ã'8ƒÄáÜ1
+`
+java:S1172·"=Remove these unused method parameters "x", "y", "dot", "win".(ïê‰Ñùÿÿÿÿ8ƒÄáÜ1
+V
+java:S3400¼"9Remove this method and declare a constant for this value.(¸®Ã'8ƒÄáÜ1
+[
+java:S1172»"=Remove these unused method parameters "x", "y", "dot", "win".(Ó‡¤¸8„ÄáÜ1
+Y	java:S125Ç"<This block of commented-out lines of code should be removed.(Ç¢ô®8„ÄáÜ1
+O
+java:S1068""-Remove this unused "WIN_COUNT" private field.(í„Úíûÿÿÿÿ8ŠÄáÜ1
